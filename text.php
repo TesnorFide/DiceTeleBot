@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: text/html; charset=utf-8');
-$token = '5278322640:AAHnfESjRFaKkBnBbTghLRwlhFbZnkQwmkY';
+$token = 'TOKEN';
 $help = 'Команды бота:
 🎲 Написать администратору:
 /compl + текст
